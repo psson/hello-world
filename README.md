@@ -5,4 +5,7 @@ I'm Andreas and I'm making a change to my README.md file
 
 Writing another line locally in Notepad++
 
+Online changes to the file
+
 Making some more changes locally
+
